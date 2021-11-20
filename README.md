@@ -1,5 +1,6 @@
 ### Hi there! here are some prototype of the game.👋
 View Full Video:https://twitter.com/AlchemistWar/status/1355963600406421507
+Gameplay: https://youtu.be/D5V_k9dD8gw
 
 ![5uxgxl](https://user-images.githubusercontent.com/94365423/142740072-776e6566-ff6e-4a46-afda-4c84843ca8f4.gif)
 
@@ -9,7 +10,7 @@ View Full Video:https://twitter.com/AlchemistWar/status/1355963600406421507
 
 ![2021-02-24 23-03-49_Moment_Moment](https://user-images.githubusercontent.com/94365423/142275253-2ad82ba7-c55f-43f8-a344-d6fcb9398c15.jpg)
 
-Gameplay: https://youtu.be/D5V_k9dD8gw
+
 
 <!--
 **AlchemistWar/AlchemistWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
