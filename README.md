@@ -1,5 +1,6 @@
 ### Hi there! here are some prototype of the game.👋
-https://twitter.com/AlchemistWar/status/1355963600406421507
+View Full Video:https://twitter.com/AlchemistWar/status/1355963600406421507
+![5uxgxl](https://user-images.githubusercontent.com/94365423/142740072-776e6566-ff6e-4a46-afda-4c84843ca8f4.gif)
 
 ![AlchemistWar   26_1_2564 14_16_25](https://user-images.githubusercontent.com/94365423/142274413-29bb0204-14ee-42df-b39c-83218b2a7f6b.png)
 
