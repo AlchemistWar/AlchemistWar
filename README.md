@@ -6,6 +6,8 @@
 
 ![2021-02-24 23-03-49_Moment_Moment](https://user-images.githubusercontent.com/94365423/142275253-2ad82ba7-c55f-43f8-a344-d6fcb9398c15.jpg)
 
+Gameplay: https://youtu.be/D5V_k9dD8gw
+
 <!--
 **AlchemistWar/AlchemistWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
